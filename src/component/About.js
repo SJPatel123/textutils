@@ -12,7 +12,7 @@ export default function About(props) {
                 </div>
             </div>
             <div className="container my-3">
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor laboriosam, incidunt beatae, debitis tenetur eligendi quod reiciendis nulla odio qui molestias labore modi inventore dolorem cum at ex architecto eaque sed provident fugit sint? Recusandae, at fuga explicabo ipsam aliquam dolor neque accusamus sapiente eaque ducimus unde natus velit inventore.</p>
+                <p></p>
             </div>
         </div>
     </>

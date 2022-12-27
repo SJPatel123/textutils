@@ -6,7 +6,6 @@ import Alert from './component/Alert';
 import {
   BrowserRouter as Router,
   Route,
-  Link,
   Routes
 } from "react-router-dom";
 import About from './component/About';
@@ -37,7 +36,7 @@ function App() {
   return (
     <>
       <Router>
-        <Navbar title="TextUtils" aboutText="About TextUtils" mode={mode} toggleMode={toggleMode}/>
+        <Navbar title="TextUtils" aboutText="About" mode={mode} toggleMode={toggleMode}/>
         <Alert alert={alert} />
         <div className="container my-3">
           <Routes>
